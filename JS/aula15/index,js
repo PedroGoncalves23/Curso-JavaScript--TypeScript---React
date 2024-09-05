@@ -1,0 +1,16 @@
+let num = 8.8474849;
+ 
+// ARREDONDA O NUMERO PRA BAIXO
+console.log(Math.floor(num)); 
+
+// ARREDONDA O NUMERO PRA CIMA
+console.log(Math.ceil(num))
+
+// ARREDONDA PARA CIMA OU BAIXO EM QUAL TIVER MAIS PRÓXIMO
+console.log(Math.round(num))
+
+// PEGA O MAIOR NÚMERO DA LISTA
+console.log(Math.max(1,2,4,5,6,7,88,65,3))
+
+// PEGA O MENOR NÚMERO DA LISTA
+console.log(Math.min(1,3,4,-22,-453,3,32))
